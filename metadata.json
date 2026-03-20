@@ -1,0 +1,8 @@
+{
+  "name": "MedMind AI",
+  "description": "An advanced medical assistant powered by Gemini, featuring symptom analysis, medical search grounding, and nearby clinic discovery.",
+  "requestFramePermissions": [
+    "geolocation",
+    "microphone"
+  ]
+}
